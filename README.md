@@ -1,2 +1,4 @@
 # ediportfolio.github.io
-ini merupakan web resti portfolio miiik edi jajuli
+ini merupakan web portfolio miiik edi jajuli
+
+di design menggunakan bootsrap

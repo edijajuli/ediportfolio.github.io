@@ -17,3 +17,13 @@ footer {
 section {
     padding-top: 5rem;
 }
+
+.img-project {
+    width: 70%;
+    margin: 100px auto;
+}
+
+.img-certificate {
+    width: 70%;
+    margin: 100px auto;
+}
