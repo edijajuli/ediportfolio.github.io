@@ -102,6 +102,10 @@ section {
         height: 30px;
         font-size: 10px;
     }
+    #about button:hover {
+        background-color: green;
+        cursor: pointer;
+    }
 
     #projects h3 {
         font-size: .9rem;
